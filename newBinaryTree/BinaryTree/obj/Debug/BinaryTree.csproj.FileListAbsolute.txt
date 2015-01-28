@@ -1,0 +1,8 @@
+D:\study\sharp\Новая папка\sortForInterview\2\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+D:\study\sharp\Новая папка\sortForInterview\tree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+F:\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+F:\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+F:\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+F:\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+F:\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+F:\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
